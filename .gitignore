@@ -2,4 +2,4 @@ env/
 *.pyc
 .vscode/
 # make sure no keys get online
-.keys/
+keys/

@@ -3,3 +3,4 @@
 # Expect this to grow. Any additional will not count towards NaSwriMo
 
 rm -rf keys/
+rm -rf demo/

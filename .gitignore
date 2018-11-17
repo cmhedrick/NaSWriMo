@@ -3,3 +3,4 @@ env/
 .vscode/
 # make sure no keys get online
 keys/
+demo/
